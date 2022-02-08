@@ -1,0 +1,9 @@
+{
+	"ip":"The_sweetiess.aternos.me",
+	"port": 31932,
+	"name": "sweet bot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (sladurche(remember_no_spaces)) (sladurche(remember_no_spaces))",
+	"login-cmd":"/login (sladurche)"
+}
